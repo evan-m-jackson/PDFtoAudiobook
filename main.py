@@ -23,7 +23,7 @@ class Audiobook:
         return myobj
 
     def save_audio_file(self, object, filename):
-        object.save(f"audio/{filename}.mp3")
+        object.save(f"{filename}.mp3")
 
 
 # Start of Code
