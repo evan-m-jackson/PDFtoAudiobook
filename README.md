@@ -1,4 +1,4 @@
-# PDFtoAudiobook
+# PDF to Audiobook 
 
 This program allows the user to take a pdf file and create an mp3 file (aka 'Audiobook') that recites the text found in the pdf file.
 
