@@ -23,7 +23,7 @@ After the modules are installed then the program can be run by entering the foll
 
     python3 main.py <insert pdf>
     
-Where it says '<insert pdf>' is where the file name for the pdf should go.  An easy way to get the full filename is to copy the pdf link and then paste it into the terminal.  After entering the command, the program should run.  If the entered file is a PDF and the filename is correct then the mp3 file should be created inside of the project folder.
+Where it says 'insert pdf' is where the file name for the pdf should go.  An easy way to get the full filename is to copy the pdf link and then paste it into the terminal.  After entering the command, the program should run.  If the entered file is a PDF and the filename is correct then the mp3 file should be created inside of the project folder.
     
 
 
